@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VAMSSHI/static/css/main.35963026.css",
+    "main.js": "/VAMSSHI/static/js/main.10a1de38.js",
+    "static/js/453.1b6cbde4.chunk.js": "/VAMSSHI/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/VAMSSHI/index.html",
+    "main.35963026.css.map": "/VAMSSHI/static/css/main.35963026.css.map",
+    "main.10a1de38.js.map": "/VAMSSHI/static/js/main.10a1de38.js.map",
+    "453.1b6cbde4.chunk.js.map": "/VAMSSHI/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35963026.css",
+    "static/js/main.10a1de38.js"
+  ]
+}
